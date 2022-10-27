@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "tabnine.tabnine-vscode",
+        "davidanson.vscode-markdownlint",
+        "mhutchie.git-graph",
+        "eamodio.gitlens"
+    ]
+}
