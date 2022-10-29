@@ -3,6 +3,10 @@
         "tabnine.tabnine-vscode",
         "davidanson.vscode-markdownlint",
         "mhutchie.git-graph",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "dsznajder.es7-react-js-snippets",
+        "msjsdiag.vscode-react-native",
+        "burkeholland.simple-react-snippets",
+        "dbaeumer.vscode-eslint"
     ]
 }
