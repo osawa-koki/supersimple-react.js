@@ -7,6 +7,7 @@
         "dsznajder.es7-react-js-snippets",
         "msjsdiag.vscode-react-native",
         "burkeholland.simple-react-snippets",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "EditorConfig.EditorConfig"
     ]
 }
