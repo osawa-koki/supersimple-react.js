@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+React学習用のデータです。  
+[公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)に沿って進めています。  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
