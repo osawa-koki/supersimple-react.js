@@ -74,7 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 自分用メモ
 
-Reactプロジェクトの作り方♪
+Reactプロジェクトの作り方♪  
+原則としてReact単体ではなく、ReactのフレームワークであるNext.jsを使用することとする。  
 
 ```shell
 npx create-react-app my-app
